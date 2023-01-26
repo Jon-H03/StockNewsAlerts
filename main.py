@@ -70,6 +70,3 @@ for _ in range(1, 4):
                                      from_=twilio_phone_number,
                                      to=my_phone_number)
 
-    ## STEP 3: Use twilio.com/docs/sms/quickstart/python
-
-
